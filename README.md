@@ -1,2 +1,2 @@
 # Computer-Graphics
-This repo will have all the OpenGL codes I perform in Lab 
+This repo contains all the OpenGL codes I perform in Lab 
