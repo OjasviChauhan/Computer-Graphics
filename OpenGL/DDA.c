@@ -1,4 +1,5 @@
 #include<GL/glut.h>
+#include<stdio.h>
 
 float X1,X2,Y1,Y2;
 
